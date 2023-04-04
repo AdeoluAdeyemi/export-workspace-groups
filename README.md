@@ -1,9 +1,9 @@
-# export-workspace-groups
+# Overview
 
 This is a basic usage of the Admin SDK Group API.
 The groups_export.py script will exports all groups and members of the group into an Excel Workbook. Each group is exported to a sheet on the workbook.
 
-## Prequisite
+## Pre-requisite
 
 ### Step 1: Create a project
 
